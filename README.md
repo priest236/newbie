@@ -1,2 +1,2 @@
 # newbie
-my very first to create repository on github.
+my very first attempt to create repository on github.
